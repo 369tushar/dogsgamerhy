@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://dogs.gamerhydra.com/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+ }
